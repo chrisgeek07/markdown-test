@@ -6,3 +6,7 @@
 ``` javascript
 const greet = "Greetings, humans!"
 ```
+
+- [ ] Create new website layout
+- [x] Create CI / CD using gh actions and Parcel
+- [ ] Create new website layout
