@@ -9,4 +9,6 @@ const greet = "Greetings, humans!"
 
 - [ ] Create new website layout
 - [x] Create CI / CD using gh actions and Parcel
+- [X] Create wireframe for website
+- [ ] Create high fidelity template for the site
 - [ ] Create new website layout
